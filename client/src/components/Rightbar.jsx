@@ -66,7 +66,7 @@ function Rightbar() {
             />
           </ImageListItem>
         </ImageList>
-        <Typography variant="h6" fontWeight={100} mt={2} mb={2}>
+        <Typography variant="h6" fontWeight={100} mt={2}>
           Latest Conversation
         </Typography>
         <List
